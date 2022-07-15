@@ -1,0 +1,136 @@
+{
+    "basics": {
+        "name": "Harshit Sharma",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2051@iiitkota.ac.in",
+        "phone": "+917014131587",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering.",
+        "location": {
+            "address": "Ramgarh Mode",
+            "postalCode": "302002",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "harshitsharma1250",
+                "url": "https://github.com/harshitsharma1250"
+            },
+            {
+                "network": "linkedin",
+                "username": "Harshit Sharma",
+                "url": "https://www.linkedin.com/in/harshit-sharma-24b50422a/"
+            },
+            {
+                "network": "Instagram",
+                "username": "ll_harshit.ll",
+                "url": "https://instagram.com/ll_harshit.ll"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Book Reading",
+            "keywords": [
+                "The power of subconcious mind"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Cricket"
+            ]
+        }
+    ]
+}
